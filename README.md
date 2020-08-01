@@ -1,7 +1,7 @@
 # Get started with open source.
 
-## Today I gonna show you-
-* How to make pull requests (PRs)
+## Today I'm gonna show you-
 * How to raise issues
-* How to use git
+* How to make pull requests (PRs)
+* How to use git (rebase/squash/commit/branching)
 * How to create a new branch in a repository.
