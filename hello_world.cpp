@@ -1,6 +1,6 @@
 #include <iostream>
 void main()
 {
-cout<<"Hey baka, pilij esmile"
+cout<<"Hey baka, pilij esmile";
 return 0;
 }
